@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Secret Diary</string>
+    <string name="input_empty">Empty or blank input cannot be saved</string>
+    <string name="dialog_title">Remove last note</string>
+    <string name="dialog_message">Do you really want to remove the last writing? This operation cannot be undone!</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="pin_wrong">Wrong PIN!</string>
+</resources>
